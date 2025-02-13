@@ -390,4 +390,6 @@ return [
     CashFlowStatement::NET_CASH_FLOW => [
         Account::BANK
     ],
+
+    'with-auth-entity' => true,
 ];
